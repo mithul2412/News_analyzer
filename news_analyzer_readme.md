@@ -2,7 +2,6 @@
 
 A powerful application that combines news retrieval, embedding-based search, and AI-powered analysis to help you explore and understand news content. This application fetches news articles from multiple sources, processes them using advanced natural language processing techniques, and allows you to ask questions about the content using a large language model.
 
-![News Analyzer Screenshot](https://via.placeholder.com/800x400?text=News+Analyzer+Dashboard)
 
 ## Features
 
